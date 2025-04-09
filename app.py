@@ -1,9 +1,7 @@
-print(hello world)
+print("hello world")
 
-print(bye bye world)
+print("bye bye world")
 
-print(testing 1 2 3 for ci cd vis)
+print("testing 1 2 3 for ci cd vis")
 
-print(testing 4 5 6)
-
-print(justin)
+print("testing 4 5 6")
